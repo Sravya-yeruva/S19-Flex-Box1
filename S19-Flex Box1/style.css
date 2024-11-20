@@ -1,0 +1,139 @@
+.container{
+    background-color:lightcoral;
+    width:300px;
+    height:300px;
+    border:5px solid black;
+    border-radius:7px;
+    display:inline-block;
+   
+    margin:5px;   
+}
+#headingH{
+    font-size:1.5rem;
+    font-family:'Courier New', Courier, monospace;
+    background-color:deepskyblue;
+    padding:5px;
+    border-radius:15px;
+    text-align:center;
+    border:6px solid red;
+}
+img{
+    width:50px;
+    height:50px;
+    border:4px solid green;
+}
+
+.div1{
+    display: flex;
+    flex-direction:row;
+    justify-content:end;
+    align-items:center;
+    width:300px;
+    height:300px;
+
+
+}
+.div2{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items:center;
+    width:300px;
+    height:300px;
+
+
+}
+.div3{
+    display:flex;
+    flex-direction:row;
+    justify-content: end;
+    align-items:center;
+   
+}
+.div4{
+    display:flex;
+    flex-direction:column;
+    width:300px;
+    height:300px;
+}
+.div5{
+    display:flex;
+    flex-direction:column-reverse;
+    width:300px;
+    height:300px;
+}
+.div6{
+    display:flex;
+    flex-wrap:wrap;
+    width:300px;
+    height:300px;
+    
+}
+.div7{
+    display:flex;
+    flex-wrap:nowrap;
+    width:300px;
+    height:300px;
+}
+.div8{
+    display:flex;
+    flex-wrap:wrap-reverse;
+    width:300px;
+    height:300px;
+}
+.div9{
+    display:flex;
+    flex-direction:row;
+    justify-content:start;
+    align-items: start;
+    width:300px;
+    height:300px;
+}
+.div10{
+    display:flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items:start;
+    width:300px;
+    height:300px;
+}
+.div11{
+    display:flex;
+    flex-direction:row;
+    justify-content:end;
+    align-items: start;
+    width:300px;
+    height:300px;
+}
+.div12{
+    display:flex;
+    flex-direction:row-reverse;
+    justify-content:start;
+    align-items: center;
+    width:300px;
+    height:300px;
+}
+.div13{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items: center;
+    width:300px;
+    height:300px;
+}
+.div14{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items: center;
+    width:300px;
+    height:300px;
+}
+.div1{
+    display:flex;
+    flex-direction:row;
+    justify-content:center;
+    align-items: center;
+    width:300px;
+    height:300px;
+}
